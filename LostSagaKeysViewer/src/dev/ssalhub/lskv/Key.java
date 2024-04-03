@@ -16,7 +16,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package dev.roanh.kps;
+package dev.ssalhub.lskv;
 
 import dev.ssalhub.lskv.config.group.KeyPanelSettings;
 import dev.ssalhub.lskv.panels.KeyPanel;
