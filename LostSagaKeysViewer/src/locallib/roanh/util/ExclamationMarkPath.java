@@ -27,8 +27,6 @@ import java.nio.file.Files;
 import java.nio.file.StandardCopyOption;
 import java.security.CodeSource;
 
-import javax.management.RuntimeErrorException;
-
 /**
  * Currently as of writing this class there is a bug in the JDK where
  * a program cannot correctly read resources from its JAR if it is
